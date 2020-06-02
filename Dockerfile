@@ -1,5 +1,5 @@
 
-FROM ros:melodic-ros-base-bionic
+FROM arm64v8/ros:melodic-ros-base-bionic
 
 RUN apt-get update \
     && apt-get upgrade --yes \
