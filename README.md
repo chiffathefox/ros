@@ -4,7 +4,7 @@ This is a docker image with preinstalled ROS base packages as well as some that 
 
 # Using this Image
 
-The image doesn't provide a RUN command, so you should provide your own or use it with other tools like [industrial\_ci](https://github.com/ros-industrial/industrial_ci).
+The image doesn't provide an EXEC command, so you should provide your own or use it with other tools like [industrial\_ci](https://github.com/ros-industrial/industrial_ci).
 
 # License
 
